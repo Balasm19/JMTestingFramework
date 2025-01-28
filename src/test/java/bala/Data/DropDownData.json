@@ -1,0 +1,10 @@
+[
+  {
+    "SortOption": "Price: Low to High",
+    "DropDownSequence": ["Electronics", "Mobiles & Tablets", "Mobiles"]
+  },
+  {
+    "SortOption": "Price: High to Low",
+    "DropDownSequence": ["Electronics", "Mobiles & Tablets", "Mobiles"]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Test": "Error Validations",
+    "Products": {
+      "placeOrderTest": "Tablets,OnePlus Pad 2",
+      "outOfStockTest": "Bread,Britannia 100% Whole Wheat Bread",
+      "productBrokenLinkTest": "Mobiles",
+      "productImageBrokenLinkTest": "Tablets,OnePlus Pad 2",
+      "cartFunctionalityTest": "Bella Vita Perfume,Bellavita Organic THUNDER",
+      "priceTagTest": "Mobiles",
+      "addToCartButtonTest": "Fruits"
+    }
+  }
+]

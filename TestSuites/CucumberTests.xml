@@ -1,0 +1,39 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Cucumber Test Suite" parallel="tests" thread-count="3">
+
+    <listeners>
+        <listener class-name="bala.TestComponents.Listeners"/>
+    </listeners>
+
+    <test name="Add To Cart Functionality Test">
+        <classes>
+            <class name="bala.Cucumber.TestRunners.AddToCartRunner"/>
+        </classes>
+    </test>
+    <test name="Cart Functionality Test">
+        <classes>
+            <class name="bala.Cucumber.TestRunners.CartFunctionalityRunner"/>
+        </classes>
+    </test>
+    <test name="Error Validations Test">
+        <classes>
+            <class name="bala.Cucumber.TestRunners.ErrorValidationRunner"/>
+        </classes>
+    </test>
+    <test name="Navigation And Sort Functionality Test">
+        <classes>
+            <class name="bala.Cucumber.TestRunners.NavigationAndSortRunner"/>
+        </classes>
+    </test>
+    <test name="Total Cart Value Functionality Test">
+        <classes>
+            <class name="bala.Cucumber.TestRunners.TotalCartValueRunner"/>
+        </classes>
+    </test>
+    <test name="UI and Behavior Validations Test">
+        <classes>
+            <class name="bala.Cucumber.TestRunners.UIBehaviorValidationsRunner"/>
+        </classes>
+    </test>
+</suite>

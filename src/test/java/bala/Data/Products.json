@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Milk",
+    "products": ["Sunfeast Dark Fantasy Chocolate Shake", "Amul Gold", "Cavin's Vanilla"]
+  },
+  {
+    "name": "Bread",
+    "products": ["Muffets & Tuffets Brown Bread", "Modern 100% Whole Wheat"]
+  },
+  {
+    "name": "Fruit",
+    "products": ["Dragonfruit", "Pineapple", "Apple Indian 6 pcs"]
+  },
+  {
+    "name": "Bella Vita Perfume",
+    "products": ["Bella Vita Luxury Senorita", "Bellavita Organic THUNDER"]
+  },
+  {
+    "name": "Mobiles",
+    "products": ["Apple iPhone 16 Pro Max 256 GB, Black Titanium", "Vivo T3 5G 128 GB", "Vivo V40 Pro 5G"]
+  }
+]

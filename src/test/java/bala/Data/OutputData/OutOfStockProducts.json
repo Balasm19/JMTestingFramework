@@ -1,0 +1,13 @@
+[ {
+  "name" : "Mobiles",
+  "products" : [ "Vivo T3 5G 128 GB", "Vivo V40 Pro 5G" ]
+}, {
+  "name" : "Fruit",
+  "products" : [ "Apple Indian 6 pcs" ]
+}, {
+  "name" : "Milk",
+  "products" : [ "Sunfeast Dark Fantasy Chocolate Shake" ]
+}, {
+  "name" : "Bread",
+  "products" : [ "Modern 100% Whole Wheat" ]
+} ]

@@ -1,0 +1,16 @@
+[ {
+  "name" : "Mobiles",
+  "products" : [ "Apple iPhone 16 Pro Max 256 GB Black Titanium" ]
+}, {
+  "name" : "Bella Vita Perfume",
+  "products" : [ "Bella Vita Luxury Senorita", "Bellavita Organic THUNDER" ]
+}, {
+  "name" : "Fruit",
+  "products" : [ "Dragonfruit", "Pineapple" ]
+}, {
+  "name" : "Milk",
+  "products" : [ "Amul Gold", "Cavin's Vanilla" ]
+}, {
+  "name" : "Bread",
+  "products" : [ "Muffets & Tuffets Brown Bread" ]
+} ]
